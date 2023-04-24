@@ -8,6 +8,8 @@ But wait, there's more! Not only does the chatbot excel in general conversations
 
 My virtual twin has already showcased its prowess in handling both personal and professional interactions, with astounding results! Hosted on AWS, the chatbot is now accessible via WhatsApp, making it incredibly user-friendly.
 
+<img src="https://github.com/AkshatRastogi-1nC0re/Humanlike_Whatsapp_Chatbot/blob/main/pic_server.jpg">
+
 Curious to give it a try? I invite you to experience my AI-powered chatbot by clicking on the link below:
 
 👉 https://wa.me/8433098945 👈
